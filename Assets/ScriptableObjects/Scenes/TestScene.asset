@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f8c4901c412dee46adc0442ac3ec645, type: 3}
+  m_Name: TestScene
+  m_EditorClassIdentifier: 
+  _guid: 16d162fd693796b4d806bbbb53ab6b8e
+  description: 
+  sceneType: 0
+  musicTrack: {fileID: 11400000, guid: 6c384996cfd9f9543996b55cde7e0b05, type: 2}
+  sceneReference:
+    sceneAsset: {fileID: 102900000, guid: d2877e914d680f04e98e7c0b375631fc, type: 3}
+    scenePath: Assets/Scenes/TestScenes/LevelTest.unity
+  locationName: Test Scene
