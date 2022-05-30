@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _inputReader: {fileID: 11400000, guid: 2332fc083cf4d444fa16181b2950e46c, type: 2}
-  _playerPrefab: {fileID: 2896018564726542420, guid: 869f2da776e491545bcf0c79c4e32b19, type: 3}
+  _playerPrefab: {fileID: 7825458917884440546, guid: 869f2da776e491545bcf0c79c4e32b19, type: 3}
   _playerInstantiatedChannel: {fileID: 11400000, guid: afe2b4a932e15c340ac427460a030d43, type: 2}
   _onSceneReady: {fileID: 11400000, guid: 1c203279dcfb68449a451cd6684f2311, type: 2}
 --- !u!1001 &5662601180896395683
@@ -62,11 +62,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4735310343269369736, guid: 680c6d584f9863549b634ed8ff3f4980, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.95
+      value: -7.46
       objectReference: {fileID: 0}
     - target: {fileID: 4735310343269369736, guid: 680c6d584f9863549b634ed8ff3f4980, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.55
+      value: -2.08
       objectReference: {fileID: 0}
     - target: {fileID: 4735310343269369736, guid: 680c6d584f9863549b634ed8ff3f4980, type: 3}
       propertyPath: m_LocalPosition.z

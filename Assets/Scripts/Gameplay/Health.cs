@@ -40,6 +40,10 @@ public class Health : MonoBehaviour, IDestroyable
         Destroy(gameObject);
     }
 
+    public void Kill()
+    {
+        DealDamage(currentHealth);
+    }
     
     private void HandleHealthUpdated(int oldHealth, int newHealth)
     {
